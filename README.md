@@ -50,7 +50,7 @@ Install vim if it is not already installed:
 ```bash
 sudo apt-get install vim
 ```
-Insert the key
+Insert key
 ```bash
 EDITOR="vim" rails credentials:edit
 ```
